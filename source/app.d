@@ -86,7 +86,7 @@ void bakeJSON(immutable(string) outputPath) @safe
 void main(string[] args) @safe
 {
     /* Recreate the output tree */
-    immutable outputPath = "public";
+    immutable outputPath = "docs";
     if (outputPath.exists)
     {
         outputPath.rmdirRecurse();
@@ -123,7 +123,7 @@ void main(string[] args) @safe
     auto settings = new HTTPServerSettings();
     settings.port = 8000;
     auto router = new URLRouter();
-    router.get("*", serveStaticFiles("./public"));
+    router.get("*", serveStaticFiles("./docs"));
     auto listener = listenHTTP(settings, router);
     scope (exit)
     {
