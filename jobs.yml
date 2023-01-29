@@ -1,0 +1,97 @@
+jobs:
+
+  - "codething":
+    when: "February 2022 - July 2022"
+    company: "Codethink"
+    position: "Senior Software Engineer"
+    description: |
+      Worked on various new approaches to software testing and safety, pioneered internal processes
+  - "snek" :
+    when: "July 2020-"
+    company: "Serpent OS"
+    position: "Lead / Founder"
+    description: |
+      Founder and “BDFL” of the Serpent OS project, a
+      relatively new from-scratch Linux distribution with a
+      focus on community sustainability and next
+      generation features.
+      Creating a brand new package manager using D Lang
+      to offer a deduplicating, atomically updating, “forever
+      rolling” operating system for multiple CPU
+      architectures with a focus on cloud/server
+      applications.
+
+  - "lispy" :
+    when: "August 2019-"
+    company: "Lispy Snake, Ltd"
+    position: "Chief Executive Officer"
+    description: |
+      Founded a software development company to
+      oversee the development of a new content/game
+      engine written in the D programming language,
+      highly modular and containing an optimised Entity
+      Component System at the heart of the architecture.
+      Currently undergoing restructuring so that a single
+      company is responsible for commercial entwining of
+      offerings of both the Serpent Engine and Serpent OS,
+      chiefly in automotive applications.
+
+  - "intel2" :
+    when: "2018-2019"
+    company: "Intel Corporation"
+    position: "Senior Software Engineer"
+    description: |
+      Worked between UK, Ireland, France, US, whilst
+      mentoring teams in GDC and PDX. Continued in
+      pivotal roles on Clear Linux, bringing core features up
+      to acceptable enterprise levels.
+      Led an internal effort to bring the standardised Clear
+      Linux Developer Edition, provided to newly
+      onboarded OTC engineers as their default Linux
+      (GNOME) development experience, complete with
+      VPN + Exchange access.
+  
+  - "solus" :
+    when: "2012-2017"
+    company: "Solus Project"
+    position: "Founder / Project Lead"
+    description: |
+      Originally founded as SolusOS, a Debian derivative,
+      reborn under the name “Solus Project” due to a
+      trademark dispute over the term “OS”. Responsible
+      for all daily running of the project, including security
+      updates and releases. Created the Budgie Desktop
+      along with a totally from-scratch Linux distribution
+      which still enjoys popularity to this day (14th most
+      popular in the world according to DistroWatch, 3rd
+      before I left the project.)
+
+  - "intel" :
+    when: "2013-2017"
+    company: "Intel Corporation"
+    position: "Software Engineer"
+    description: |
+      Started out as a Linux distribution engineer for the
+      Tizen project, pivoting quickly to bootstrap the Clear
+      Linux project through various iterations until the
+      version seen publicly today. Took a 1 year hiatus to
+      bootstrap FOSS projects.
+
+      Key accomplishment:
+        - Officially broke Python.
+
+  - "elastic" :
+    when: "2012-2013"
+    company: "ElasticHosts"
+    position: "Software Engineer"
+    description: |
+      Started at ElasticHosts improving the provisioning
+      system.
+
+      Then reworked the in-house fork of Debian to no
+      longer rely on complete static linking due to security
+      issues, rewrote the init system to be faster on RAID
+      storage, and improved I/O throughput orders of
+      magnitude for all ElasticHosts customers by working
+      in the (then) new LVM SSD Cache capability,
+      dramatically reducing latency.
