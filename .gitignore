@@ -13,5 +13,4 @@ resume-test-*
 *.o
 *.obj
 *.lst
-public/
 dub.selections.json
