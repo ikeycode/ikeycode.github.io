@@ -42,11 +42,11 @@ function renderJob(job)
     return `
 <div class="list-group-item">
     <div class="row">
-        <div class="col-3 px-3">
+        <div class="col-sm-12 col-md-3 px-3">
             <div class="text-muted">${job.when}</div>
             <div>${job.position} @ ${job.company}</div>
         </div>
-        <div class="col-9">
+        <div class="col-sm-12 col-md-9">
             <p class="lead">${job.description}
         </div>
     </div>
