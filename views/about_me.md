@@ -1,4 +1,4 @@
-I'm Ikey Doherty, founder and lead of the [https://serpentos.com](Serpent OS) project.
+I'm Ikey Doherty, founder and lead of the [Serpent OS](https://serpentos.com) project.
 
 I've worked exclusively on open source projects for the last two decades, both within the established industry and as a startup/competitor. My primary expertise incorporates the build and lifecycle management of open source operating systems, chiefly Linux®.
  
