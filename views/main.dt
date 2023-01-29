@@ -1,0 +1,16 @@
+// Main page content
+
+- import vibe.textfilter.markdown : filterMarkdown;
+- static string aboutMe = import("about_me.md");
+
+div.container
+
+    div.card.row.mb-4
+        div.card-body
+            h5.card-title About me
+            p.markdown!=aboutMe.filterMarkdown()
+
+    div.card.row.mb-4
+        div.card-body
+            h5.card-title Experience
+            div.list-group.list-group-flush#jobList

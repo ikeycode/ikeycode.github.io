@@ -1,0 +1,22 @@
+div.card
+    div.card-body
+        h5.card-title Overview
+        div.datagrid
+            div.datagrid-item
+                div.datagrid-title Languages
+                div.datagrid-content #[strong C], C++, #[strong D], #[strong Go], JavaScript, Python, Vala
+            div.datagrid-item
+                div.datagrid-title Technologies
+                div.datagrid-content Networking, Virtualisation, Build Pipelines, Frontend &amp; Backend, Distributed Systems, Linux, Performance
+            div.datagrid-item
+                div.datagrid-title Specialities
+                div.datagrid-content Building Linux distributions from scratch. Delivering the impossible. Growing teams professionally and personally, equally.
+            div.datagrid-item
+                div.datagrid-title Soft skills
+                div.datagrid-content I'm a motivated and proven leader with years of experience, having grown and directed multiple (corporate and FOSS) projects to continued success. Grow superior engineers, do not be irreplaceable.
+            div.datagrid-item
+                div.datagrid-title Spoiler
+                div.datagrid-content This résumé was built as a simplistic demonstration using D Lang, HTML, CSS, JS, JSON, YAML, and markdown. Using Compile-Time-Function-Execution it rebuilds itself to generate the static deployment assets at runtime.
+            div.datagrid-item
+                div.datagrid-title Important code
+                div.datagrid-content Most of my publicly available source code is available at #[a(href="https://github.com/serpent-os") github.com/serpent-os]

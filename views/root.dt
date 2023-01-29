@@ -1,0 +1,18 @@
+doctype html
+html(lang="en")
+    head
+        block title
+            title Ikey Doherty - CV
+
+        meta(charset="utf-8")
+        meta(name="viewport", content="width=device-width, initial-scale=1")
+        // bootstrap CSS
+        link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/css/tabler.min.css")
+
+
+    body.theme-dark-auto
+        block body
+
+        // bootstrap JS
+        script(src="https://cdn.jsdelivr.net/npm/@tabler/core@1.0.0-beta17/dist/js/tabler.min.js")
+        script(src="cv.js")

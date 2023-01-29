@@ -1,0 +1,11 @@
+div.card
+    div.card-code
+        pre
+            code.text-muted #[span.text-success $] whois ikey
+            code
+                >    Senior Software Engineer
+                >    Lead/Founder @ Serpent OS
+            code.text-muted #[span.text-success $] whereis ikey
+            code
+                >    UK
+            code.text-muted #[span.text-success $] # #[a(href="mailto:ikey@serpentos.com") ikey@serpentos.com]
