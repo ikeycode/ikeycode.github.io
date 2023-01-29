@@ -1,0 +1,14 @@
+- import vibe.textfilter.markdown : filterMarkdown;
+- static string pastProjects = import("past_projects.md");
+- static string presentProjects = import("present_projects.md");
+
+div.card
+    div.card-body
+        h5.card-title Projects
+        div.datagrid
+            div.datagrid-item
+                div.datagrid-title Past
+                div.datagrid-content: p.markdown!=filterMarkdown(pastProjects)
+            div.datagrid-item
+                div.datagrid-title Present
+                div.datagrid-content: p.markdown!=filterMarkdown(presentProjects)

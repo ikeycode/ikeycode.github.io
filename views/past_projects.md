@@ -1,0 +1,6 @@
+- [Budgie Desktop](https://blog.buddiesofbudgie.org/)
+- [Solus Project](https://getsol.us/)
+- [Linux Driver Management](https://github.com/solus-project/linux-driver-management)
+- [Linux Steam Integration](https://github.com/solus-project/linux-steam-integration)
+- [Clear Linux OS](https://clearlinux.org)
+- [Linux Mint](https://linuxmint.com)

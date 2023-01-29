@@ -16,3 +16,5 @@ block body
                 include terminal
                 div.row.py-2
                     include skills
+                div.row.py-2
+                    include projects
