@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/resume
+resume.so
+resume.dylib
+resume.dll
+resume.a
+resume.lib
+resume-test-*
+*.exe
+*.o
+*.obj
+*.lst
+public/
+dub.selections.json
