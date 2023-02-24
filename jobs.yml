@@ -1,5 +1,12 @@
 jobs:
 
+  - "mozillian":
+    when: "March 2023"
+    company: "MZLA Technologies Corporation"
+    position: "Staff Engineer"
+    description: |
+      Embarking on a new journey to work on Mozilla Thunderbird!
+
   - "codething":
     when: "February 2022 - July 2022"
     company: "Codethink"
