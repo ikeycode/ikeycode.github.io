@@ -3,8 +3,9 @@ div.card
         pre
             code.text-muted #[span.text-success $] whois ikey
             code
-                >    Senior Software Engineer
+                >    Staff Engineer / Thunderbird Developer @ Mozilla
                 >    Lead/Founder @ Serpent OS
+                >    TSC Member @ Solus
             code.text-muted #[span.text-success $] whereis ikey
             code
                 >    UK

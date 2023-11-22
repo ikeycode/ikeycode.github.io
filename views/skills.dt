@@ -4,7 +4,7 @@ div.card
         div.datagrid
             div.datagrid-item
                 div.datagrid-title Languages
-                div.datagrid-content #[strong C], C++, #[strong D], #[strong Go], JavaScript, Python, Vala
+                div.datagrid-content #[strong C], C++, #[strong D], #[strong Go], JavaScript, #[strong Rust], Python, Vala
             div.datagrid-item
                 div.datagrid-title Technologies
                 div.datagrid-content Networking, Virtualisation, Build Pipelines, Frontend &amp; Backend, Distributed Systems, Linux, Performance

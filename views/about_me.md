@@ -5,3 +5,6 @@ I've worked exclusively on open source projects for the last two decades, both w
 I have an extensive background in backend systems engineering roles, be they full delivery pipelines, software compliance, distributed build systems, etc.
 For the last 6 months I've been working on a distributed build system to leverage token-authenticated agent systems in a scalable pipeline solution
 to quickly and securely deploy software builds and updates for the Serpent OS project.
+
+Most recently I've embraced the Rust programming language and continue to find new ways to integrate into existing software projects, such as Serpent OS for
+our tooling, and lately the Thunderbird codebase for new components and libraries.

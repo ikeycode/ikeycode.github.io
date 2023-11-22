@@ -5,7 +5,9 @@ jobs:
     company: "MZLA Technologies Corporation"
     position: "Staff Engineer"
     description: |
-      Embarking on a new journey to work on Mozilla Thunderbird!
+      Primarily focused on backend engineering within Thunderbird. Leading internal efforts to bring Rust
+      to the codebase, enabling streamlined and safe development of new components and libraries, requiring
+      upstream changes within the Firefox code base to support the workflow with minimal maintainence overhead.
 
   - "codething":
     when: "February 2022 - July 2022"

@@ -1,4 +1,4 @@
 - [Serpent OS](https://serpentos.com)
-- [moss package manager](https://github.com/serpent-os/moss)
+- [moss package manager](https://github.com/serpent-os/moss-rs)
 - [boulder package builder](https://github.com/serpent-os/boulder)
 - [Summit Build Dashboard](https://github.com/serpent-os/summit)
