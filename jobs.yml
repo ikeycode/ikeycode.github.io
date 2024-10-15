@@ -8,6 +8,9 @@ jobs:
       Primarily focused on backend engineering within Thunderbird. Leading internal efforts to bring Rust
       to the codebase, enabling streamlined and safe development of new components and libraries, requiring
       upstream changes within the Firefox code base to support the workflow with minimal maintainence overhead.
+      
+      Working on parallel Rust projects such as the Linux system tray, enabling easier FFI paths and a strategy
+      to replace aging systems in an isolated component-by-component fashion.
 
   - "codething":
     when: "February 2022 - July 2022"
@@ -24,11 +27,16 @@ jobs:
       relatively new from-scratch Linux distribution with a
       focus on community sustainability and next
       generation features.
-      Creating a brand new package manager using D Lang
+      Creating a brand new package manager using Rust
       to offer a deduplicating, atomically updating, “forever
       rolling” operating system for multiple CPU
       architectures with a focus on cloud/server
       applications.
+      
+      Integrating the LLVM/clang toolchain by default, and
+      via boulder we explore various ways to optimise package
+      builds using LTO/PGO/BOLT/etc, along with tuning for various
+      hardware configurations.
 
   - "lispy" :
     when: "August 2019-"
@@ -59,6 +67,19 @@ jobs:
       onboarded OTC engineers as their default Linux
       (GNOME) development experience, complete with
       VPN + Exchange access.
+      
+      Helped to bootstrap the distro, as well as working on
+      enabling further optimisations with GCC and binutils to
+      deliver automatic optimisations for packages, including:
+      
+       - PGO
+       - LTO
+       - AutoFDO
+       - FMV (Functioning Multi Versioning)
+       
+      Additionally provided the foundations for a Docker fork
+      using a custom Qemu hypervisor, which later grew into the
+      "Clear Containers" project, later becoming Kata Containers.
   
   - "solus" :
     when: "2012-2017"

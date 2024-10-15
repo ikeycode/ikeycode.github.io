@@ -7,10 +7,10 @@ div.card
                 div.datagrid-content #[strong C], C++, #[strong D], #[strong Go], JavaScript, #[strong Rust], Python, Vala
             div.datagrid-item
                 div.datagrid-title Technologies
-                div.datagrid-content Networking, Virtualisation, Build Pipelines, Frontend &amp; Backend, Distributed Systems, Linux, Performance
+                div.datagrid-content Networking, Virtualisation, Build Pipelines, Frontend &amp; Backend, Distributed Systems, Linux, Performance, Compiler Optimisation
             div.datagrid-item
                 div.datagrid-title Specialities
-                div.datagrid-content Building Linux distributions from scratch. Delivering the impossible. Growing teams professionally and personally, equally.
+                div.datagrid-content Building self-hosting, optimised Linux distributions from scratch. Delivering the impossible. Growing teams professionally and personally, equally.
             div.datagrid-item
                 div.datagrid-title Soft skills
                 div.datagrid-content I'm a motivated and proven leader with years of experience, having grown and directed multiple (corporate and FOSS) projects to continued success. Grow superior engineers, do not be irreplaceable.
